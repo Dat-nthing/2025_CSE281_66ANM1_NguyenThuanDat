@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://inkythuatso.com/uploads/images/2021/12/logo-dai-hoc-thuy-loi-inkythuatso-converted-01-23-08-44-48.jpg" width="180">
 
-# 📊 CSE211 • Cấu trúc dữ liệu & Giải thuật
+# 📊 CSE281 • Cấu trúc dữ liệu & Giải thuật
 ### 🧠 Logic – Optimization – Efficiency • Data Structures & Algorithms
 
 <p>
@@ -20,7 +20,7 @@
 
 - 👤 **Họ tên:** <b>Nguyễn Thuận Đạt</b>
 - 🏫 **Lớp:** 66ANM1
-- 📘 **Môn học:** Cấu trúc dữ liệu và Giải thuật (CSE211)
+- 📘 **Môn học:** Cấu trúc dữ liệu và Giải thuật (CSE281)
 - 👨‍🏫 **Giảng viên hướng dẫn:** Thầy Ngô Trường Giang
 - 🏛️ **Trường:** Đại học Thủy Lợi
 

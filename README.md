@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/vi/1/1b/T%E1%BB%93ng_h%E1%BB%A3p_logo_Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Th%E1%BB%A7y_l%E1%BB%A3i.png" width="120" />
 
 # 📊 CSE211 • Cấu trúc dữ liệu & Giải thuật
 ### 🧠 Logic – Optimization – Efficiency • Data Structures & Algorithms
